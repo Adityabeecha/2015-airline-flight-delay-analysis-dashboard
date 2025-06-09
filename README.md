@@ -1,7 +1,9 @@
 ✈️ Airline Flight Delay Analysis Dashboard (Power BI)
+
 This Power BI dashboard offers a comprehensive analysis of flight delays across U.S. airlines using a dataset from 2015, containing 5.33 million flight records. The purpose of this project is to uncover key patterns behind delays and cancellations, aiding stakeholders such as airline operators, regulators, and passengers in identifying bottlenecks and improving flight reliability.
 
 📊 Key Insights
+
 Total Flights Analyzed: 5.33 Million
 
 Airports Covered: 322
@@ -15,6 +17,7 @@ Cancelled Flights: 87,000+
 Average Delay Time: ~49.6 minutes
 
 📈 Visualizations & Metrics
+
 Cancellation Reasons Breakdown:
 
 Weather: 54.76%
@@ -44,6 +47,7 @@ Airport Traffic and Delays:
 Geo-mapped overview of delay distribution and flight volumes across U.S. airports.
 
 🛠️ Tools Used
+
 Power BI Desktop
 
 DAX for calculated measures
